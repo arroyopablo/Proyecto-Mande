@@ -48,6 +48,15 @@ img{
 .grande{
 	font-size: 4em;
 }	
+.retraso{
+	animation-delay: 1s;
+}
+.retraso2{
+	animation-delay: 2s;
+}
+.retraso3{
+	animation-delay: 3s;
+}
 .verde{
 	color: #00887C;
 }
