@@ -1,5 +1,5 @@
 body{
-	font-family: 'Lato', sans-serif;
+	font-family: 'Lato', sans-serif;;
 }
 .cajita{
 	border: solid;
@@ -19,7 +19,7 @@ img{
 	float: none;
 }
 .espacio-arriba{
-	margin-top: 100px;
+	margin-top: 80px;
 }
 .margen-abajo{
 	margin-bottom: 30px;
@@ -27,8 +27,14 @@ img{
 .pacifico{
 	font-family: 'Pacifico', cursive;
 }
-.se-gris{
+.nunito{
+	font-family: 'Nunito', sans-serif;
+}
+.se-verde{
 	background-color: #00833D;
+}
+.se-gris{
+	background-color: black;
 }
 .mediano{
 	font-size: 1.2em;
